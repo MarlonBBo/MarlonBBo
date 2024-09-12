@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor movido a desafios. <br><br>Iniciei na programação querendo criar meus próprios sites e apps, o que me fez desenvolver uma abordagem criativa e proativa para resolver desafios. Sou uma pessoa bem-humorada que busca constantemente maneiras de criar um ambiente colaborativo e divertido.<br><br>Atualmente estou cursando Bacharelado em Engenharia de Softwere (2/8)</p>
+<p align="left">Sou um desenvolvedor movido a desafios. <br><br>Olá, me chamo Marlon barreto Borges. Iniciei na programação querendo criar meus próprios sites e apps, o que me fez desenvolver uma abordagem criativa e proativa para resolver desafios. Sou uma pessoa bem-humorada que busca constantemente maneiras de criar um ambiente colaborativo e divertido.<br><br>Atualmente estou cursando Bacharelado em Engenharia de Softwere (2/8)</p>
 
 ###
 
