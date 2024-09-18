@@ -15,7 +15,7 @@
 ###
 
 <div style="display: inline_block">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,nestjs,prisma,postgres,docker,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwindcss,nodejs,nestjs,prisma,postgres,docker,git" />
 </div>
 
 ###
