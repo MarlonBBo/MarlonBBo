@@ -26,7 +26,7 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/MarlonBBo">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonBBo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonBBo&&langs_count=6&theme=dark&layout=compact"/>
   </a>
 </div>  
 
